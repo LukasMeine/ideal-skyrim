@@ -1,6 +1,6 @@
-# Skyrim optimal settings
+# Ideal Skyrim 🐲
 
-I really love Skyrim. But I don't play if very often because i can't stand the vanilla version. setting the game to my personal taste required an ENOURMOUS amount of time every time I set it up. Finding all the mods was very time consuming and honestly, most of the time I just didn't have the patience to go through that.
+I really love Skyrim. But I don't play if very often because i can't stand the vanilla version. Setting the game to my personal taste required an enormous amount of time every time I set it up. Finding all the mods was very time consuming and honestly, most of the time I just didn't have the patience to go through that.
 
 That's why I'm building this repo. To make a clear guide to make Skyrim Just the way I like it so I can set it up easily whenever I feel like it ;)
 
