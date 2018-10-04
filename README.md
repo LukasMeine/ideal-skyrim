@@ -52,3 +52,20 @@ That's why I'm building this repo. To make a clear guide to make Skyrim Just the
 - Realistic Water (https://www.nexusmods.com/skyrim/mods/41076/?)
 - Watercolor (https://www.nexusmods.com/skyrim/mods/48938/?)
 
+- Immersive roads (https://www.nexusmods.com/skyrim/mods/40245)
+
+- Static Mesh improvement (https://www.nexusmods.com/skyrim/mods/8655/?)
+- Skyrim HD (https://www.nexusmods.com/skyrim/mods/607/?)
+
+
+
+
+
+## NEW ANIMATIONS
+
+- Magic casting animation overhaul (https://www.nexusmods.com/skyrim/mods/58418?)
+- Pretty combat Animations (https://www.nexusmods.com/skyrim/mods/15703)
+- More Draconic dragon aspect (https://www.nexusmods.com/skyrim/mods/54306/)
+- Dragon aspect toggleable and unlimited (https://www.nexusmods.com/skyrim/mods/68385)
+- Dragon aspect real flying (https://www.nexusmods.com/skyrim/mods/69902) 
+
