@@ -40,7 +40,7 @@ That's why I'm building this repo. To make a clear guide to make Skyrim Just the
 - Skyrim CBBE (https://www.nexusmods.com/skyrim/mods/2666/)
 - Electrify (https://www.nexusmods.com/skyrim/mods/58695)
 
-- JK`s Skyrim (https://www.nexusmods.com/skyrim/mods/61035) 
+- JK's Skyrim (https://www.nexusmods.com/skyrim/mods/61035) 
 - Aeon ENB (https://www.nexusmods.com/skyrim/mods/52541)
 
 - Shop Overhaul  (https://www.nexusmods.com/skyrim/mods/61237)
